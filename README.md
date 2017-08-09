@@ -1,7 +1,7 @@
 # Qgis_mt_decoupage_infra_com
 Auteur : Timothée ROSIER
 Version QGis : 2.18.4
-Date : 209/08/2017
+Date : 09/08/2017
 
 Réalisation d'un découpage  infra-communal à partir de la BD Parcellaire automatique via le Modeleur de traitement sur Qgis 2.18
 
